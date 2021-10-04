@@ -1,6 +1,6 @@
 ### Koalacards (Hayden)
 
-👋 Hi there! My name is Hayden (he/him), and I am a fourth-year computer science and mathematics major (with a minor in microeconomics) at Northeastern University.
+👋 Hi there! My name is Hayden (he/him), and I am a fourth-year computer science and mathematics major (with a minor in microeconomics) at school in Boston.
 
 #### Projects
 
