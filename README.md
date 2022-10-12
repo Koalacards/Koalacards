@@ -1,6 +1,6 @@
 ### Koalacards (Hayden)
 
-👋 Hi there! My name is Hayden (he/him), and I am a fourth-year computer science and mathematics major (with a minor in microeconomics) at school in Boston. After graduation, I will be a software engineer at a Fortune 500 company doing python-related platform engineeering!
+👋 Hi there! My name is Hayden (he/him), and I am a software engineer II at Wayfair in Boston!
 
 #### Projects
 
@@ -14,9 +14,9 @@ Here are my most notable projects:
 
 ✨[Plotter](https://github.com/Koalacards/Plotter) is a much more complex discord bot that uses the matplotlib, numpy, and other python packages and allows any discord users to create complex datasets (with random options) and create graphs/plots with those datasets! The bot is really intuitive to use, and is currently being worked on to add more graphs and features for users!
 
-#### Other Work
+#### My Skills
 
-Besides my projects, I have completed two co-ops (six month internships) at tech companies; one at a smaller company doing half-QA half-engineering (QA with Selenium, engineering on a data API using Python) and one at a much larger Fortune 500 company doing platform engineering for python applications using python, shell, yaml, and dockerfile (I will be returning to this position after graduating). I am additionally a TA at my school, and help students land internships by reading resumes and conducting mock interviews, so feel free to reach out if you have any questions about the tech industry!
+I mostly work with infastructure-based things and python tools, so my best skills are Python, Shell, Yaml, Dockerfile/Docker-compose, etc. I also have relatively good knowledge of Java/C#, and have used some front-end tools like Typescript in the past.
 
 
 
