@@ -1,6 +1,6 @@
 ### Koalacards (Hayden)
 
-👋 Hi there! My name is Hayden (he/him), and I am a former software engineer II at Wayfair in Boston (looking for new opportunities).
+👋 Hi there! My name is Hayden (he/him), and I am a Python Software Engineer at MORSE Corp (ex-Wayfair).
 
 #### Projects
 
