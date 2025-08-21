@@ -1,6 +1,6 @@
 ### Koalacards (Hayden)
 
-👋 Hi there! My name is Hayden (he/him), and I am a Python Software Engineer at MORSE Corp (ex-Wayfair).
+👋 Hi there! My name is Hayden (he/him), and I am a Data Engineer II at Full Tilt Data (ex-Wayfair, MORSE Corp).
 
 #### Projects
 
